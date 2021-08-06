@@ -430,7 +430,7 @@ img{
         row-gap: 0;
     }
     .home__img{
-        width: 524px;
+        width: 100px;
         right: 10%;
     }
 
@@ -486,7 +486,7 @@ img{
         height: 640px;
     }
     .home__img {
-        width: 500px;
+        width: 100px;
         right: 24%;
     }
 }
