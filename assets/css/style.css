@@ -486,7 +486,8 @@ img{
         height: 640px;
     }
     .home__img {
-        width: 100px;
+        width: 600px;
+        height: 400px;
         right: 24%;
     }
 }
