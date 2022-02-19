@@ -1,2 +1,3 @@
-# portfolio_website
-responsive portfolio website using Html , CSS and JavaScript
+# Portfolio_Website
+
+Responsive portfolio website using Html , CSS and JavaScript
